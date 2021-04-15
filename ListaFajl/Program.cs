@@ -11,12 +11,42 @@ namespace ListaFajl
         public string nev; 
         public DateTime szuletesi_datum; 
         public char neme; 
-        public int bulizasi_hajlam; 
+        public int bulizasi_hajlam; // Az értéke [1, 10]
+
+        /* 
+        Az OOP alapelemei
+
+        1./ Class - osztály
+        Osztályváltozók / tagváltozók / property: elemi (pl. int, string, bool, stb.)  vagy 
+                összetett változók (pl. tömb, osztály, stb.)
+        Metódusok
+        Az Osztályváltozókat és metódusokat együttesen az osztály tagjainak nevezzük.
+
+        2./ Származtatás: az osztályok egymásból származtathatók, és a leszármazott örökli a szülő osztály egyes tagjait. Ennek módja a programban szabályozható a láthatósági szintekkel.
+
+        3./ Példányosítás
+        Az osztályokat általában nem közvetlenül használjuk, hanem a new paranccsal objektum példányokat hozunk létre.
+
+        4./ Láthatósági szint az osztály tagjaira vonatkozik:
+        public - az osztály tagja az osztályon kívülről is elérhető
+        private - az osztály tagja az osztályon kívülről nem elérhető, csak az osztály metódusai férnek hozzá. Nem származtathatók
+        protected - olyan mint a private csak a leszármazottakban is elérhető
+
+        5./ Egységbezárás (encapsulation)
+        Lényege, hogy az osztály belső változóihoz más osztályok metódusai csak ellenőrzötten férhessenek hozzá.
+        Eszközei: Láthatóság.  
+        Megoldás: A tagváltozókat private láthatóságra állítom be és public láthatóságú metódussal férek hozzá.
+
+        6./ Többalakúság (poliformizmus)
+        Az objektumok szükség esetén úgy tudnak viselkedni, mint ha az ősosztályukból lettek volna példányosítva.
+
+
+        */
     }
 
     class Program
     {
-        // Osztályváltozók
+        // Osztályváltozók / tagváltozók / property
         public string fajl = "baratok.txt";
         public List<barat> lista = new List<barat>();
 
@@ -32,7 +62,7 @@ namespace ListaFajl
             kiir(olvasFajl());
         }
 
-        private static void kiir(List<barat> ls)
+        private void kiir(List<barat> ls)
         {
             foreach (barat p in ls)
             {

@@ -1,0 +1,7 @@
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF1-13Kszo\CSharp\órai\BeregSzF2-14EKszo2\OOPalap\bin\Debug\OOPalap.exe.config
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF1-13Kszo\CSharp\órai\BeregSzF2-14EKszo2\OOPalap\bin\Debug\OOPalap.exe
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF1-13Kszo\CSharp\órai\BeregSzF2-14EKszo2\OOPalap\bin\Debug\OOPalap.pdb
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF1-13Kszo\CSharp\órai\BeregSzF2-14EKszo2\OOPalap\obj\Debug\OOPalap.csprojAssemblyReference.cache
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF1-13Kszo\CSharp\órai\BeregSzF2-14EKszo2\OOPalap\obj\Debug\OOPalap.csproj.CoreCompileInputs.cache
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF1-13Kszo\CSharp\órai\BeregSzF2-14EKszo2\OOPalap\obj\Debug\OOPalap.exe
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF1-13Kszo\CSharp\órai\BeregSzF2-14EKszo2\OOPalap\obj\Debug\OOPalap.pdb
