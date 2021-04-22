@@ -1,7 +1,0 @@
-C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF1-13Kszo\CSharp\órai\BeregSzF2-14EKszo2\Poliform\bin\Debug\Poliform.exe.config
-C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF1-13Kszo\CSharp\órai\BeregSzF2-14EKszo2\Poliform\bin\Debug\Poliform.exe
-C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF1-13Kszo\CSharp\órai\BeregSzF2-14EKszo2\Poliform\bin\Debug\Poliform.pdb
-C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF1-13Kszo\CSharp\órai\BeregSzF2-14EKszo2\Poliform\obj\Debug\Poliform.csprojAssemblyReference.cache
-C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF1-13Kszo\CSharp\órai\BeregSzF2-14EKszo2\Poliform\obj\Debug\Poliform.csproj.CoreCompileInputs.cache
-C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF1-13Kszo\CSharp\órai\BeregSzF2-14EKszo2\Poliform\obj\Debug\Poliform.exe
-C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF1-13Kszo\CSharp\órai\BeregSzF2-14EKszo2\Poliform\obj\Debug\Poliform.pdb
