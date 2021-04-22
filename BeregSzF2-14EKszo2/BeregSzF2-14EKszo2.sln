@@ -9,6 +9,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPalap", "OOPalap\OOPalap.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poliform", "Poliform\Poliform.csproj", "{E0F97997-7FF5-4E10-8BD9-B35FC612F3CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sarok", "Sarok\Sarok.csproj", "{D4991B52-13F3-4E53-8D3C-AE1F05023BDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Szoveg", "Szoveg\Szoveg.csproj", "{BC500873-1644-4A89-B260-997AD8DCE7D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koordinata", "Koordinata\Koordinata.csproj", "{B397DB5E-936F-40E6-9960-531F4823DD49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormMove", "FormMove\FormMove.csproj", "{A258D30D-DFC9-4733-89DD-5440DB159FEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +35,22 @@ Global
 		{E0F97997-7FF5-4E10-8BD9-B35FC612F3CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0F97997-7FF5-4E10-8BD9-B35FC612F3CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0F97997-7FF5-4E10-8BD9-B35FC612F3CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4991B52-13F3-4E53-8D3C-AE1F05023BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4991B52-13F3-4E53-8D3C-AE1F05023BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4991B52-13F3-4E53-8D3C-AE1F05023BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4991B52-13F3-4E53-8D3C-AE1F05023BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC500873-1644-4A89-B260-997AD8DCE7D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC500873-1644-4A89-B260-997AD8DCE7D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC500873-1644-4A89-B260-997AD8DCE7D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC500873-1644-4A89-B260-997AD8DCE7D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B397DB5E-936F-40E6-9960-531F4823DD49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B397DB5E-936F-40E6-9960-531F4823DD49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B397DB5E-936F-40E6-9960-531F4823DD49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B397DB5E-936F-40E6-9960-531F4823DD49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A258D30D-DFC9-4733-89DD-5440DB159FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A258D30D-DFC9-4733-89DD-5440DB159FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A258D30D-DFC9-4733-89DD-5440DB159FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A258D30D-DFC9-4733-89DD-5440DB159FEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
