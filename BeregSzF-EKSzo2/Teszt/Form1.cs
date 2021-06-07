@@ -8,13 +8,17 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ScrollBar2
+namespace Teszt
 {
     public partial class Form1 : Form
     {
+        private string szoveg;
+
         public Form1()
         {
             InitializeComponent();
         }
+
     }
+
 }
